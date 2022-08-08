@@ -1,4 +1,8 @@
 body{
     background: black;
-    color:black;
+    color: orangered;   
+}
+
+imgs{
+    width: 320px;
 }
